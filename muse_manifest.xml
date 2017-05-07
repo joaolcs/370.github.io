@@ -1,0 +1,36 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://serra.work,https://joaolcs.github.io" resolutions="1x" timestamp="1494178873695">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="23542653" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
+    <file name="index.css" crc="522220168" ref="index"/>
+    <file name="nomq_index.css" crc="99638329" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="logo.svg" crc="184221630" seo="true" mt="1494173901000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4152223963" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4164605177" ref="index"/>
+    <file name="swatchesvg.svg" crc="54037899" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="swatchesvg_poster_.png" crc="4019612168" ref="index"/>
+    <file name="logo-01-01.svg" crc="4039136121" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-01-01_poster_.png" crc="3918822859" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4007690960" seo="true" mt="1494177007382" redirect="true"/>
+</manifest>
