@@ -5,12 +5,6 @@
     <lastmod>2017-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://serra.work/images/swatchesvg.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://serra.work/images/logo-01-01.svg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://serra.work/assets/logo.svg</loc>
